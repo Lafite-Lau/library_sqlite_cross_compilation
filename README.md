@@ -1,5 +1,5 @@
-# library_sqlite_cross_compilation
-Cross compile SQLITE with powerpc-buildroot-linux-uclibcspe-gcc
+# library_sqlite_cross_compiling
+Cross compiling SQLITE with powerpc-buildroot-linux-uclibcspe-gcc
 
 Sqlite source code download address: https://www.sqlite.org/download.html
 
