@@ -9,5 +9,5 @@ powerpc-buildroot-linux-uclibcspe-gcc version: gcc version 4.9.3 (Buildroot 2015
 
 Compilation method：
 ./configure CC=/opt/pu300/host/usr/bin/powerpc-buildroot-linux-uclibcspe-gcc --host=arm-linux  --prefix=/home/vmuser/sqlite3/sqlite
-make
-make install
+
+make & make install
